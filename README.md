@@ -26,6 +26,9 @@ Where:
 - $\(\Delta V\)$ is the change in volume of t
 
 
+<img width="678" alt="Снимок экрана 2023-11-12 в 13 37 46" src="https://github.com/frozosea/chemistry-formulas/assets/99795132/1bb685d9-e7a4-4c60-9578-c00d3f2d1e5d">
+
+
 # Heat of reaction of chemical reactions
 
 The heat of reaction, also known as the enthalpy change of a chemical reaction, is a measure of the heat energy either absorbed (endothermic reaction) or released (exothermic reaction) during a chemical reaction. It is a fundamental concept in thermodynamics and is represented by the symbol $\(ΔH\)$, where ΔH stands for the change in enthalpy.
@@ -83,6 +86,13 @@ $$\[ΔG = ΔH - TΔS\]$$
 - If $\(ΔG\)$ is negative (ΔH is negative and TΔS is smaller), the reaction is spontaneous in the forward direction.
 - If $\(ΔG\)$ is positive (ΔH is positive and TΔS is larger), the reaction is non-spontaneous in the forward direction.
 - If $\(ΔG\)$ is zero (ΔH equals TΔS), the reaction is at equilibrium.
+
+
+<img width="620" alt="Снимок экрана 2023-11-12 в 13 41 58" src="https://github.com/frozosea/chemistry-formulas/assets/99795132/2e67a14e-ab43-414c-80f4-2afe6ca6d7c4">
+
+<img width="627" alt="Снимок экрана 2023-11-12 в 13 42 28" src="https://github.com/frozosea/chemistry-formulas/assets/99795132/3332e1c8-c123-4e9f-b90c-43f4e7fd8315">
+
+<img width="669" alt="Снимок экрана 2023-11-12 в 13 43 20" src="https://github.com/frozosea/chemistry-formulas/assets/99795132/3bc8b118-2dbc-4935-b4d5-9ad88bd0860f">
 
 # Ideal Gas Mixture
 Consider an ideal gas mixture containing two components A and B. Among them, the amount of substance in component A is $n_A\$, and component B is amount of substance is $n_s$. Under constant temperature and constant volume conditions, their respective equations of state are:
@@ -236,19 +246,118 @@ $$ K_a = \frac{\[H^+]C_{HAc}}{c_{NaAc}} $$
 
 $$ pH = 14 - pOH $$
 
+<img width="681" alt="Снимок экрана 2023-11-12 в 13 30 47" src="https://github.com/frozosea/chemistry-formulas/assets/99795132/b923cef9-acb1-42b6-92ad-e15e8a168470">
+
+
+
+
+<img width="675" alt="Снимок экрана 2023-11-12 в 13 31 15" src="https://github.com/frozosea/chemistry-formulas/assets/99795132/861eb462-2fb8-40b2-9b4d-695ce9ad4248">
+
+
+
 # K_sp
 $$K_sp °(HAc) = \[H^+]\[OH^-] = s^2$$
 
-$$s = \sqrt(2, \frac{K_sp °}{1})$$
+$$s = \sqrt{2, \frac{K_sp °}{1}}$$
 
 $$K_sp °(HAc) = \[H^+]\[OH^-]^2 = 4s^3$$
 
-$$s = \sqrt(3, \frac{K_sp °}{4})$$
+$$s = \sqrt{3, \frac{K_sp °}{4}}$$
 
 $$K_sp °(HAc) = \[H^+]\[OH^-]^3 = 27s^4$$
 
-$$s = \sqrt(4, \frac{K_sp °}{27})$$
+$$s = \sqrt{4, \frac{K_sp °}{27}}$$
 
+<img width="679" alt="Снимок экрана 2023-11-12 в 13 31 38" src="https://github.com/frozosea/chemistry-formulas/assets/99795132/96c90880-88ff-464a-853a-cc8244f993c4">
+
+<img width="678" alt="Снимок экрана 2023-11-12 в 13 32 27" src="https://github.com/frozosea/chemistry-formulas/assets/99795132/debd1e44-a8b4-435c-8d73-ab44c6dcd00b">
+<img width="681" alt="Снимок экрана 2023-11-12 в 13 33 43" src="https://github.com/frozosea/chemistry-formulas/assets/99795132/dc43a1f3-10b8-48e8-9a33-f726ed7b6ad9">
+<img width="678" alt="Снимок экрана 2023-11-12 в 13 33 57" src="https://github.com/frozosea/chemistry-formulas/assets/99795132/207bd817-a555-4e73-87f7-a5cfc0784fe0">
+<img width="677" alt="Снимок экрана 2023-11-12 в 13 34 35" src="https://github.com/frozosea/chemistry-formulas/assets/99795132/67967768-22b2-4617-8ae4-795c645498b2">
+<img width="673" alt="Снимок экрана 2023-11-12 в 13 35 23" src="https://github.com/frozosea/chemistry-formulas/assets/99795132/8ebcc8f3-1ad9-4230-af99-a9c52281ab2b">
 
 # m
 $$m = c * V_1 * M$$
+
+
+
+# n, W, C, X
+Certainly! Let's go over the formulas and their meanings in the context of the calculations you're interested in:
+
+**(1) Mass Fraction of the Solution (\(w\)):**
+$$w = \frac{\text{mass of solute}}{\text{total mass of solution}} \times 100$$
+
+- **Meaning:** The mass fraction represents the percentage of the total mass of the solution that is attributed to the solute. It is calculated by taking the ratio of the mass of the solute to the total mass of the solution and multiplying by 100 to express it as a percentage.
+
+**(2) Amount and Concentration of the Substance in the Solution:**
+$$n = \frac{\text{mass}}{\text{molar mass}}$$
+
+$$C = \frac{n}{\text{volume}}$$
+
+- **Meaning:** These formulas are used to determine the amount $n$ and concentration $C$ of a substance in a solution.
+  - $n$ is the amount of substance, calculated by dividing the mass of the substance by its molar mass. It is measured in moles.
+  - $C$ is the molar concentration, calculated by dividing the amount of substance by the volume of the solution. It represents the concentration of the substance in moles per liter.
+
+**(3) Mass Molar Concentration of the Solution (\(c\)):**
+$$c = \frac{\text{mass of solute}}{\text{volume of solution}}$$
+
+- **Meaning:** This formula calculates the mass molar concentration of the solution. It represents the mass of the solute per unit volume of the solution and is measured in grams per liter.
+
+**(4) Molar Fraction of Sucrose and Water (\(x\)):**
+$$x = \frac{n_{\text{Sucrose}}}{n_{\text{total}}}$$
+
+- **Meaning:** The molar fraction represents the fraction of the total moles attributed to a specific substance in the solution. In this case, it calculates the molar fraction of sucrose (\(C_{12}H_{22}O_{11}\)) in the total moles of the solution.
+
+For a complete understanding of these formulas and their applications, you'll need to use them in the specific context of the given problem, plugging in the appropriate values and units. If you have specific values, we can proceed with the calculations.
+
+# Константа Фарадея
+Заряд электрона e: 1,602×10-19C
+Заряд одного моля электронов: e×NA=96485 C·моль-1=F, постоянная Фарадея
+Заряд, необходимый для получения 1 моля R: nF
+
+
+# Q
+To determine the amount of $H_2(g)$ precipitated on the cathode, we'll follow a similar approach as described earlier, using the Faraday's laws of electrolysis. The general formula is $Q = n \cdot F$, where:
+
+- $Q$ is the total charge passed through the circuit (in Coulombs),
+- $n$ is the moles of electrons exchanged in the reaction,
+- $F$ is the Faraday constant $96485 \ C/mol$.
+
+# Уравнение Нерста
+
+Уравнение Нернста связано с электрохимией и описывает зависимость электродного потенциала от концентрации реагентов. Основное уравнение Нернста для полуячеек (полуданная, например, когда один электрод находится в стандартных условиях) выглядит следующим образом:
+
+$$E = E^0 - \frac{RT}{nF} \ln Q$$
+
+где:
+- $E$ - электродный потенциал
+- $E^0$ - стандартный электродный потенциал (потенциал при стандартных условиях)
+- $R$ - универсальная газовая постоянная (\(8.314 \ J/(mol \cdot K)\))
+- $T$ - температура в кельвинах
+- $n$ - количество электронов, участвующих в реакции
+- $F$ - постоянная Фарадея $96485 \ C/mol$
+- $Q$ - отношение концентраций продуктов к реагентам в реакции электродной полуячейки
+
+Уравнение Нернста позволяет оценить электродный потенциал в условиях, отличных от стандартных, учитывая изменения концентраций реагентов.
+
+# E_cell
+
+Высокий электрический потенциал, указывающий на то, что электроцентрирующее окисленное вещество обладает высокой окислительной способностью в стандартном состоянии. Низкий, указывающий на то, что окислительная способность электроцентрирующего окисленного вещества в стандартном состоянии слабая
+
+$$(-)Zn(s)｜ZnSO4(1 моль·Л-1)|| CuSO4(1 моль·Л-1)｜Cu(s)(+)$$
+1.Левая сторона - это отрицательный электрод, который играет окислительную роль; правая сторона - положительный электрод, который играет восстановительную роль.
+2.“|" указывает на границу раздела фаз, указывая на наличие разности потенциалов.
+3.“||" означает солевой мостик, соединяющий две с половиной батареи.
+4.Чтобы указать температуру: если вы ее не укажете, то она составит 298 К.；
+5.Должно быть указано состояние вещества: должно быть указано давление газа и концентрация раствора.
+6.Газовые электроды и окислительно-восстановительные электроды следует обозначать как проводящие инертные электроды, обычно
+Платиновый электрод.
+
+<img width="677" alt="Снимок экрана 2023-11-12 в 13 25 29" src="https://github.com/frozosea/chemistry-formulas/assets/99795132/cb3b443d-054b-4fb8-8bff-7287311aacc3">
+<img width="677" alt="Снимок экрана 2023-11-12 в 13 26 17" src="https://github.com/frozosea/chemistry-formulas/assets/99795132/5ba99a39-41c2-4079-b112-c46c87595725">
+<img width="676" alt="Снимок экрана 2023-11-12 в 13 26 40" src="https://github.com/frozosea/chemistry-formulas/assets/99795132/db11be6d-ce5e-48bc-92f5-6e494071d72f">
+<img width="678" alt="Снимок экрана 2023-11-12 в 13 28 25" src="https://github.com/frozosea/chemistry-formulas/assets/99795132/97b3277c-19a1-40ee-847b-39216aaabab0">
+<img width="678" alt="Снимок экрана 2023-11-12 в 13 28 51" src="https://github.com/frozosea/chemistry-formulas/assets/99795132/5c61d21c-5972-44fd-97bb-d927a260c857">
+
+
+<img width="673" alt="Снимок экрана 2023-11-12 в 13 29 14" src="https://github.com/frozosea/chemistry-formulas/assets/99795132/344acc2d-04c9-4dc6-a73c-b828cd552d0e">
